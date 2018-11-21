@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFSpecialKit'
-  s.version          = '0.1.0'
-  s.summary          = 'FFSpecialKit.'
+  s.version          = '0.1.1'
+  s.summary          = '专题组件'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -41,11 +41,12 @@ TODO: Add long description of the pod here.
   s.dependency 'Masonry'
   s.dependency 'YYWebImage'
   s.dependency 'ReactiveCocoa'
-  s.dependency 'FFCategoryKit'
+
   s.dependency 'FFAPIsKit'
   s.dependency 'FFReformerKeysKit'
   s.dependency 'FFToolsKit'
   s.dependency 'FFConfigsKit'
   s.dependency 'FFMainViewKit'
+    s.dependency 'FFCategoryKit'
 
 end

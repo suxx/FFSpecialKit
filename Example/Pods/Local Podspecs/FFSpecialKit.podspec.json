@@ -29,9 +29,6 @@
     "ReactiveCocoa": [
 
     ],
-    "FFCategoryKit": [
-
-    ],
     "FFAPIsKit": [
 
     ],
@@ -45,6 +42,9 @@
 
     ],
     "FFMainViewKit": [
+
+    ],
+    "FFCategoryKit": [
 
     ]
   }

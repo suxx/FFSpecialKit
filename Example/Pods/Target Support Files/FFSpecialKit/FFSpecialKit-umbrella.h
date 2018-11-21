@@ -18,6 +18,7 @@
 #import "FFSpecialController.h"
 #import "FFSpecialListReformer.h"
 #import "SpecialAPIRequest.h"
+#import "Target_special.h"
 
 FOUNDATION_EXPORT double FFSpecialKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char FFSpecialKitVersionString[];
